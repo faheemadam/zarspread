@@ -1,2 +1,2 @@
-DEBUG=on
+DEBUG=off
 DATABASE_URL=sqlite:///my-local-sqlite.db
